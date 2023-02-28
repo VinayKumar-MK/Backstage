@@ -4,8 +4,8 @@ metadata:
   name: Pizza
   description: About Pizza
   tags:
-    - Piaza
-    - toppiens
+    - Pizza
+    - rest
 spec:
   type: openapi
   lifecycle: experimental
