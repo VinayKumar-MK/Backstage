@@ -11,4 +11,4 @@ spec:
   lifecycle: experimental
   owner: team-c
   definition:
-    $text: https://github.com/guruprakashchinnasamy/TestBackstage/blob/main/weather.yaml
+    $text: https://github.com/VinayKumar-MK/Backstage/blob/master/Weather.yaml
