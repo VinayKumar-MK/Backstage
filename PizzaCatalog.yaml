@@ -9,6 +9,6 @@ metadata:
 spec:
   type: openapi
   lifecycle: experimental
-  owner: team-c
+  owner: team-a
   definition:
     $text: https://github.com/VinayKumar-MK/Backstage/blob/master/pizza.yaml
