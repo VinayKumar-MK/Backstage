@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: API
 metadata:
-  name: Pizza
+  name: Pizza1
   description: About Pizza
   tags:
     - pizza
