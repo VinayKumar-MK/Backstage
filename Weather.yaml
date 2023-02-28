@@ -6,13 +6,6 @@ metadata:
   tags:
     - store
     - rest
-  links:
-    - url:https://github.com/guruprakashchinnasamy/TestBackstage
-      title: GitHub Repo
-      icon: github
-    - url: https://github.com/guruprakashchinnasamy/TestBackstage/blob/main/weather.yaml
-      title: API Spec
-      icon: code
 spec:
   type: openapi
   lifecycle: experimental
