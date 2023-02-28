@@ -4,7 +4,7 @@ metadata:
   name: Pizza
   description: About Pizza
   tags:
-    - Pizza
+    - pizza
     - rest
 spec:
   type: openapi
